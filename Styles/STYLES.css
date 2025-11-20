@@ -74,7 +74,7 @@ section button{
     margin: auto;
 }
 header{
-    background-image: url("Imag/Arduino_ftdi_chip-1.jpg");
+    background-image: url("../Imag/Arduino_ftdi_chip-1.jpg");
     background-size: cover;
     background-position: center;
     background-repeat:no-repeat;
@@ -112,7 +112,7 @@ h1{
     height: 100vh;
     color: white;
     background-image:
-    url("Imag/Programmer.jpeg");
+    url("../Imag/Programmer.jpeg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;    
@@ -143,18 +143,18 @@ h1{
     border-radius: 20px;
 }
 .carta:first-child{
-    background-image: url("Imag/HTML5\ logo\ HD\ -\ MI\ PORTAL.jpeg");
+    background-image: url("../Imag/HTML5\ logo\ HD\ -\ MI\ PORTAL.jpeg");
 
 }
 .carta:nth-child(2){
-    background-image: url("Imag/css.jpeg");
+    background-image: url("../Imag/css.jpeg");
 }
 .carta:nth-child(3){
-    background-image: url("Imag/Baixar\ javascript\ logotipo\ png\,\ javascript\ ícone\ transparente\ png.jpeg");
+    background-image: url("../Imag/Baixar\ javascript\ logotipo\ png\,\ javascript\ ícone\ transparente\ png.jpeg");
 }
 .carta:nth-child(4){
     text-decoration-color: white;
-    background-image: url("Imag/python\ logo.jpeg");
+    background-image: url("../Imag/python\ logo.jpeg");
 }
 .formulario{
     background-color: rgb(10, 97, 97);
